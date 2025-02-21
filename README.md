@@ -1,1 +1,1 @@
-# bradleysummers.dev
+# https://bradleysummers.dev
