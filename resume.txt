@@ -1,0 +1,49 @@
+Bradley Summers
+bradsmr@gmail.com | (909) 560-4115 | Los Angeles, CA | bradleysummers.dev
+EDUCATION
+Western Governors University Graduated Apr 2025
+Bachelor of Science, Software Engineering, Java Salt Lake City, UT
+PROJECT
+Employee Management System | Live Demo Full-Stack Enterprise Application
+Designed and developed a comprehensive employee management system with role-based access control:
+▪
+Built Java Spring Boot backend with RESTful APIs, JPA/Hibernate, and JWT-based authentication
+▪
+Created PostgreSQL database schema with relational models for employees and departments
+▪
+Developed React/TypeScript frontend with organizational chart visualization components
+▪
+Implemented security features including role-based authorization and password encryption
+▪
+Deployed containerized application to cloud infrastructure
+▪
+Technologies: Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, REST APIs, React, TypeScript, Docker, Git
+WORK EXPERIENCE
+VC3, Inc Oct 2023 – Present
+Internal IT Systems Engineer II Remote
+▪
+Internal IT operations for 850+ staff MSP supporting 1,800+ municipalities and businesses across North America
+▪
+Contributed to IT infrastructure integration across 9 acquisitions and 20 offices in North America.
+▪
+Built internal automation tools in PowerShell and Python to streamline onboarding and configuration tasks, reducing repetitive IT work and improving ticket KPIs
+▪
+Served as an escalation point for cross-team infrastructure and automation issues.
+▪
+Technologies: PowerShell, Python, VMware, Hyper-V, Microsoft Azure, Intune, Entra ID, Microsoft 365
+NOC Analyst II Sep 2022 – Oct 2023
+▪
+Managed backups and disaster recovery for 1,000+ servers across 150+ client environments
+▪
+Led org-wide migration of backup software, improving speed and reliability of server restores
+▪
+Deployed 600+ RMM hardware and virtual probes and built PSA automation to streamline monitoring from these devices
+Accent Computer Solutions, Inc Aug 2019 – Sep 2022
+Jr. Systems Administrator Rancho Cucamonga, CA
+▪
+Delivered Tier 1/2 internal IT support for server hardware, Active Directory, Exchange, server maintenance, and network configurations
+CERTIFICATIONS & SKILLS
+▪
+Certifications: Amazon Web Services (AWS) Certified Cloud Practitioner, ITIL 4 Foundation - IT Service Management, MS-900 Microsoft 365 Certified: Fundamentals
+▪
+Skills: Java, Object-Oriented Programming, Spring Boot, Spring Security, JPA/Hibernate, SQL, RESTful APIs, Git, Docker, Python, PowerShell
